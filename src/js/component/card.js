@@ -6,7 +6,7 @@ const Card = () =>{
 <div className="row row-cols-1 row-cols-md-4 g-4"  style={{marginTop:"50px"}}>
   <div className="col">
     <div className="card">
-      <img src="https://www.freecodecamp.org/news/content/images/2020/09/road-690087_1920.jpg" className="card-img-top" alt="..."/>
+      <img src="https://www.bedfordindependent.co.uk/wp-content/uploads/2019/06/Rain-road-yellow-lines.jpg" className="card-img-top" alt="..."/>
       <div className="card-body">
         <h5 className="card-title">Card title</h5>
         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
